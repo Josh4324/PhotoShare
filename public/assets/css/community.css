@@ -1,0 +1,24 @@
+.navbar {
+    width: 100%;
+    left: 0;
+    position: relative;
+}
+
+.navbar .navbar-brand img {
+    height: 30px;
+}
+
+.navbar h4 {
+    color: #323f7e;
+    font-size: 23px;
+    /* background: #e3e7f7; */
+    padding: 10px 25px;
+    line-height: 1;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.main-wrapper .page-wrapper {
+    margin: 0 auto;
+    width: 100%;
+}
